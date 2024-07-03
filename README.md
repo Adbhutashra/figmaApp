@@ -6,10 +6,10 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Screenshots
 
-![Alt text](../figmaApp/src/assets/screenshots/splash.png?raw=true)
-![Alt text](../figmaApp/src/assets/screenshots/home1.png?raw=true)
-![Alt text](../figmaApp/src/assets/screenshots/home2.png?raw=true)
-![Alt text](../figmaApp/src/assets/screenshots/home3.png?raw=true)
+![Alt text](./src/assets/screenshots/splash.png)
+![Alt text](./src/assets/screenshots/home1.png)
+![Alt text](./src/assets/screenshots/home2.png)
+![Alt text](./src/assets/screenshots/home3.png)
 
 # Figma
 
