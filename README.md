@@ -2,7 +2,18 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+
+# Screenshots
+
+![Alt text](../figmaApp/src/assets/screenshots/splash.png?raw=true)
+![Alt text](../figmaApp/src/assets/screenshots/home1.png?raw=true)
+![Alt text](../figmaApp/src/assets/screenshots/home2.png?raw=true)
+![Alt text](../figmaApp/src/assets/screenshots/home3.png?raw=true)
+
+# Figma
+
+https://www.figma.com/design/ujjVmTnnxEVkR6gw0oWYif/Untitled-(Copy)?node-id=0-1&t=BKqXuWkWT8vFE6w4-0
 
 ## Step 1: Start the Metro Server
 

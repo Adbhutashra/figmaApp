@@ -14,6 +14,13 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-figmaApp-figmaAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-figmaApp-figmaAppTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		18E391262DB8480CB957B6C8 /* Strawford-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C07D87A0BD1247A887D04BC8 /* Strawford-Black.ttf */; };
+		6D8B2F46CC684BDD8D839552 /* Strawford-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0FC1593008D54CFD8C356495 /* Strawford-Bold.ttf */; };
+		D900CC9701E448BC9A21EA38 /* Strawford-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5044893E9A6C4DB89655E057 /* Strawford-ExtraLight.ttf */; };
+		1814899677D9449B9D7426E6 /* Strawford-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6ABC36634C28469C961DEA83 /* Strawford-Light.ttf */; };
+		5FB3E74E354E44FB903C402A /* Strawford-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 82C7CB638C214E8B8A97FE7C /* Strawford-Medium.ttf */; };
+		0A3C55C1387D4B829A7DA84D /* Strawford-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC39A7935783495496507159 /* Strawford-Regular.ttf */; };
+		C12EA330E4D4446388503E29 /* Strawford-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6222FBF75C5B4F15A43BBAA8 /* Strawford-Thin.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +43,7 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = figmaApp/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = figmaApp/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = figmaApp/main.m; sourceTree = "<group>"; };
-	    13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = figmaApp/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = figmaApp/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-figmaApp-figmaAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-figmaApp-figmaAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B4392A12AC88292D35C810B /* Pods-figmaApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-figmaApp.debug.xcconfig"; path = "Target Support Files/Pods-figmaApp/Pods-figmaApp.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-figmaApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-figmaApp.release.xcconfig"; path = "Target Support Files/Pods-figmaApp/Pods-figmaApp.release.xcconfig"; sourceTree = "<group>"; };
@@ -45,6 +52,13 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = figmaApp/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-figmaApp-figmaAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-figmaApp-figmaAppTests.release.xcconfig"; path = "Target Support Files/Pods-figmaApp-figmaAppTests/Pods-figmaApp-figmaAppTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		C07D87A0BD1247A887D04BC8 /* Strawford-Black.ttf */ = {isa = PBXFileReference; name = "Strawford-Black.ttf"; path = "../assets/fonts/Strawford-Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0FC1593008D54CFD8C356495 /* Strawford-Bold.ttf */ = {isa = PBXFileReference; name = "Strawford-Bold.ttf"; path = "../assets/fonts/Strawford-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5044893E9A6C4DB89655E057 /* Strawford-ExtraLight.ttf */ = {isa = PBXFileReference; name = "Strawford-ExtraLight.ttf"; path = "../assets/fonts/Strawford-ExtraLight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6ABC36634C28469C961DEA83 /* Strawford-Light.ttf */ = {isa = PBXFileReference; name = "Strawford-Light.ttf"; path = "../assets/fonts/Strawford-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		82C7CB638C214E8B8A97FE7C /* Strawford-Medium.ttf */ = {isa = PBXFileReference; name = "Strawford-Medium.ttf"; path = "../assets/fonts/Strawford-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		AC39A7935783495496507159 /* Strawford-Regular.ttf */ = {isa = PBXFileReference; name = "Strawford-Regular.ttf"; path = "../assets/fonts/Strawford-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6222FBF75C5B4F15A43BBAA8 /* Strawford-Thin.ttf */ = {isa = PBXFileReference; name = "Strawford-Thin.ttf"; path = "../assets/fonts/Strawford-Thin.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +138,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				92620F62335B4FDB97B940A3 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -149,6 +164,21 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		92620F62335B4FDB97B940A3 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				C07D87A0BD1247A887D04BC8 /* Strawford-Black.ttf */,
+				0FC1593008D54CFD8C356495 /* Strawford-Bold.ttf */,
+				5044893E9A6C4DB89655E057 /* Strawford-ExtraLight.ttf */,
+				6ABC36634C28469C961DEA83 /* Strawford-Light.ttf */,
+				82C7CB638C214E8B8A97FE7C /* Strawford-Medium.ttf */,
+				AC39A7935783495496507159 /* Strawford-Regular.ttf */,
+				6222FBF75C5B4F15A43BBAA8 /* Strawford-Thin.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -245,6 +275,13 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				18E391262DB8480CB957B6C8 /* Strawford-Black.ttf in Resources */,
+				6D8B2F46CC684BDD8D839552 /* Strawford-Bold.ttf in Resources */,
+				D900CC9701E448BC9A21EA38 /* Strawford-ExtraLight.ttf in Resources */,
+				1814899677D9449B9D7426E6 /* Strawford-Light.ttf in Resources */,
+				5FB3E74E354E44FB903C402A /* Strawford-Medium.ttf in Resources */,
+				0A3C55C1387D4B829A7DA84D /* Strawford-Regular.ttf in Resources */,
+				C12EA330E4D4446388503E29 /* Strawford-Thin.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
